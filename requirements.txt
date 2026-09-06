@@ -17,5 +17,8 @@ docx2txt>=0.8
 # --- Structured data schemas ---
 pydantic>=2.7.0
 
+# --- Numeric ops (cosine similarity in the scoring node) ---
+numpy>=1.26.0
+
 # --- Utilities ---
 python-dotenv>=1.0.0
