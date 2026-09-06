@@ -147,6 +147,10 @@ activemq-data/
 # SageMath parsed files
 *.sage.py
 
+# Project-specific: generated data artifacts (not sample inputs)
+data/chroma_db/
+data/candidate_history.json
+
 # Environments
 .env
 .envrc
