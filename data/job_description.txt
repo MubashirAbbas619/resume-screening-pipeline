@@ -1,0 +1,31 @@
+Job Title: Backend Software Engineer
+
+Company: TechNova Solutions
+
+About the Role:
+We are looking for a Backend Software Engineer to join our platform team.
+You will design, build, and maintain scalable backend services that power
+our core product. This role involves close collaboration with frontend
+and data teams to ship reliable, well-tested features.
+
+Requirements:
+- 3+ years of professional software engineering experience
+- Strong proficiency in Python (Go or Java experience is a plus)
+- Experience with REST API design and microservices architecture
+- Familiarity with containerization (Docker) and orchestration (Kubernetes)
+- Experience with relational databases (PostgreSQL preferred)
+- Working knowledge of a major cloud provider (AWS, GCP, or Azure)
+- Solid understanding of system design fundamentals
+- Bachelor's degree in Computer Science or a related field (or equivalent experience)
+
+Nice to Have:
+- Experience with CI/CD pipelines
+- Familiarity with infrastructure-as-code (Terraform)
+- Cloud certifications (e.g., AWS Certified Solutions Architect)
+
+Responsibilities:
+- Design and implement backend services and APIs
+- Write clean, well-tested, maintainable code
+- Participate in code reviews and technical design discussions
+- Collaborate with product and frontend teams to deliver end-to-end features
+- Monitor and improve the performance and reliability of production systems
